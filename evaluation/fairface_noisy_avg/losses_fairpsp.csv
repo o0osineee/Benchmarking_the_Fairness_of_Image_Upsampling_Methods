@@ -1,0 +1,701 @@
+,race,race_id,race_0-1,race_recon,race_recon_id
+0,Black_0,,False,Black,1
+1,Black_1,,False,Black,1
+2,Black_10,,False,Black,1
+3,Black_11,,False,Indian,5
+4,Black_12,,False,Black,1
+5,Black_13,,False,Southeast Asian,4
+6,Black_14,,False,Southeast Asian,4
+7,Black_15,,False,Black,1
+8,Black_16,,False,Black,1
+9,Black_17,,False,Southeast Asian,4
+10,Black_18,,False,Indian,5
+11,Black_19,,False,Indian,5
+12,Black_2,,False,Indian,5
+13,Black_20,,False,Black,1
+14,Black_21,,False,Black,1
+15,Black_22,,False,Southeast Asian,4
+16,Black_23,,False,Indian,5
+17,Black_24,,False,Southeast Asian,4
+18,Black_25,,False,Southeast Asian,4
+19,Black_26,,False,Indian,5
+20,Black_27,,False,Black,1
+21,Black_28,,False,Black,1
+22,Black_29,,False,Black,1
+23,Black_3,,False,Black,1
+24,Black_30,,False,Black,1
+25,Black_31,,False,Indian,5
+26,Black_32,,False,Black,1
+27,Black_33,,False,Southeast Asian,4
+28,Black_34,,False,Black,1
+29,Black_35,,False,Black,1
+30,Black_36,,False,Southeast Asian,4
+31,Black_37,,False,Indian,5
+32,Black_38,,False,Indian,5
+33,Black_39,,False,Black,1
+34,Black_4,,False,Black,1
+35,Black_40,,False,Indian,5
+36,Black_41,,False,Black,1
+37,Black_42,,False,Indian,5
+38,Black_43,,False,Indian,5
+39,Black_44,,False,Black,1
+40,Black_45,,False,Southeast Asian,4
+41,Black_46,,False,Black,1
+42,Black_47,,False,Southeast Asian,4
+43,Black_48,,False,Indian,5
+44,Black_49,,False,Indian,5
+45,Black_5,,False,Southeast Asian,4
+46,Black_50,,False,Southeast Asian,4
+47,Black_51,,False,Indian,5
+48,Black_52,,False,Black,1
+49,Black_53,,False,Southeast Asian,4
+50,Black_54,,False,Black,1
+51,Black_55,,False,Black,1
+52,Black_56,,False,Indian,5
+53,Black_57,,False,Southeast Asian,4
+54,Black_58,,False,Black,1
+55,Black_59,,False,Black,1
+56,Black_6,,False,Southeast Asian,4
+57,Black_60,,False,Indian,5
+58,Black_61,,False,Indian,5
+59,Black_62,,False,Indian,5
+60,Black_63,,False,Black,1
+61,Black_64,,False,Black,1
+62,Black_65,,False,Black,1
+63,Black_66,,False,Black,1
+64,Black_67,,False,Black,1
+65,Black_68,,False,Black,1
+66,Black_69,,False,Black,1
+67,Black_7,,False,Black,1
+68,Black_70,,False,Indian,5
+69,Black_71,,False,Black,1
+70,Black_72,,False,Black,1
+71,Black_73,,False,Black,1
+72,Black_74,,False,Indian,5
+73,Black_75,,False,Black,1
+74,Black_76,,False,Indian,5
+75,Black_77,,False,Indian,5
+76,Black_78,,False,Black,1
+77,Black_79,,False,Black,1
+78,Black_8,,False,Southeast Asian,4
+79,Black_80,,False,Black,1
+80,Black_81,,False,Black,1
+81,Black_82,,False,Indian,5
+82,Black_83,,False,Indian,5
+83,Black_84,,False,Black,1
+84,Black_85,,False,Indian,5
+85,Black_86,,False,Black,1
+86,Black_87,,False,Southeast Asian,4
+87,Black_88,,False,Indian,5
+88,Black_89,,False,Indian,5
+89,Black_9,,False,Indian,5
+90,Black_90,,False,Black,1
+91,Black_91,,False,Latino_Hispanic,2
+92,Black_92,,False,Black,1
+93,Black_93,,False,Indian,5
+94,Black_94,,False,Black,1
+95,Black_95,,False,Black,1
+96,Black_96,,False,Black,1
+97,Black_97,,False,Indian,5
+98,Black_98,,False,Southeast Asian,4
+99,Black_99,,False,Black,1
+100,East Asian_0,,False,Southeast Asian,4
+101,East Asian_1,,False,East Asian,3
+102,East Asian_10,,False,Latino_Hispanic,2
+103,East Asian_11,,False,Latino_Hispanic,2
+104,East Asian_12,,False,Southeast Asian,4
+105,East Asian_13,,False,White,0
+106,East Asian_14,,False,Southeast Asian,4
+107,East Asian_15,,False,Southeast Asian,4
+108,East Asian_16,,False,Latino_Hispanic,2
+109,East Asian_17,,False,Latino_Hispanic,2
+110,East Asian_18,,False,Southeast Asian,4
+111,East Asian_19,,False,Southeast Asian,4
+112,East Asian_2,,False,East Asian,3
+113,East Asian_20,,False,Latino_Hispanic,2
+114,East Asian_21,,False,Latino_Hispanic,2
+115,East Asian_22,,False,Latino_Hispanic,2
+116,East Asian_23,,False,Southeast Asian,4
+117,East Asian_24,,False,Latino_Hispanic,2
+118,East Asian_25,,False,East Asian,3
+119,East Asian_26,,False,Indian,5
+120,East Asian_27,,False,Southeast Asian,4
+121,East Asian_28,,False,Southeast Asian,4
+122,East Asian_29,,False,White,0
+123,East Asian_3,,False,Southeast Asian,4
+124,East Asian_30,,False,Indian,5
+125,East Asian_31,,False,Southeast Asian,4
+126,East Asian_32,,False,East Asian,3
+127,East Asian_33,,False,East Asian,3
+128,East Asian_34,,False,Southeast Asian,4
+129,East Asian_35,,False,Southeast Asian,4
+130,East Asian_36,,False,East Asian,3
+131,East Asian_37,,False,Southeast Asian,4
+132,East Asian_38,,False,Southeast Asian,4
+133,East Asian_39,,False,Latino_Hispanic,2
+134,East Asian_4,,False,Southeast Asian,4
+135,East Asian_40,,False,Southeast Asian,4
+136,East Asian_41,,False,Southeast Asian,4
+137,East Asian_42,,False,Indian,5
+138,East Asian_43,,False,Southeast Asian,4
+139,East Asian_44,,False,Southeast Asian,4
+140,East Asian_45,,False,East Asian,3
+141,East Asian_46,,False,East Asian,3
+142,East Asian_47,,False,Southeast Asian,4
+143,East Asian_48,,False,White,0
+144,East Asian_49,,False,Latino_Hispanic,2
+145,East Asian_5,,False,Southeast Asian,4
+146,East Asian_50,,False,East Asian,3
+147,East Asian_51,,False,Southeast Asian,4
+148,East Asian_52,,False,Southeast Asian,4
+149,East Asian_53,,False,Southeast Asian,4
+150,East Asian_54,,False,Southeast Asian,4
+151,East Asian_55,,False,Southeast Asian,4
+152,East Asian_56,,False,Latino_Hispanic,2
+153,East Asian_57,,False,Southeast Asian,4
+154,East Asian_58,,False,Southeast Asian,4
+155,East Asian_59,,False,Latino_Hispanic,2
+156,East Asian_6,,False,Southeast Asian,4
+157,East Asian_60,,False,Southeast Asian,4
+158,East Asian_61,,False,Latino_Hispanic,2
+159,East Asian_62,,False,Southeast Asian,4
+160,East Asian_63,,False,Latino_Hispanic,2
+161,East Asian_64,,False,Southeast Asian,4
+162,East Asian_65,,False,Southeast Asian,4
+163,East Asian_66,,False,White,0
+164,East Asian_67,,False,Southeast Asian,4
+165,East Asian_68,,False,Latino_Hispanic,2
+166,East Asian_69,,False,East Asian,3
+167,East Asian_7,,False,Southeast Asian,4
+168,East Asian_70,,False,East Asian,3
+169,East Asian_71,,False,Southeast Asian,4
+170,East Asian_72,,False,Southeast Asian,4
+171,East Asian_73,,False,Southeast Asian,4
+172,East Asian_74,,False,Southeast Asian,4
+173,East Asian_75,,False,Latino_Hispanic,2
+174,East Asian_76,,False,East Asian,3
+175,East Asian_77,,False,Southeast Asian,4
+176,East Asian_78,,False,Southeast Asian,4
+177,East Asian_79,,False,Latino_Hispanic,2
+178,East Asian_8,,False,Southeast Asian,4
+179,East Asian_80,,False,Southeast Asian,4
+180,East Asian_81,,False,Southeast Asian,4
+181,East Asian_82,,False,Latino_Hispanic,2
+182,East Asian_83,,False,White,0
+183,East Asian_84,,False,Southeast Asian,4
+184,East Asian_85,,False,Southeast Asian,4
+185,East Asian_86,,False,Southeast Asian,4
+186,East Asian_87,,False,Southeast Asian,4
+187,East Asian_88,,False,Southeast Asian,4
+188,East Asian_89,,False,Southeast Asian,4
+189,East Asian_9,,False,Southeast Asian,4
+190,East Asian_90,,False,White,0
+191,East Asian_91,,False,Southeast Asian,4
+192,East Asian_92,,False,Southeast Asian,4
+193,East Asian_93,,False,Southeast Asian,4
+194,East Asian_94,,False,Southeast Asian,4
+195,East Asian_95,,False,East Asian,3
+196,East Asian_96,,False,Southeast Asian,4
+197,East Asian_97,,False,Latino_Hispanic,2
+198,East Asian_98,,False,Latino_Hispanic,2
+199,East Asian_99,,False,Southeast Asian,4
+200,Indian_0,,False,Latino_Hispanic,2
+201,Indian_1,,False,Indian,5
+202,Indian_10,,False,Southeast Asian,4
+203,Indian_11,,False,Southeast Asian,4
+204,Indian_12,,False,Indian,5
+205,Indian_13,,False,Indian,5
+206,Indian_14,,False,Indian,5
+207,Indian_15,,False,Indian,5
+208,Indian_16,,False,Indian,5
+209,Indian_17,,False,Indian,5
+210,Indian_18,,False,Indian,5
+211,Indian_19,,False,Indian,5
+212,Indian_2,,False,Southeast Asian,4
+213,Indian_20,,False,Indian,5
+214,Indian_21,,False,Southeast Asian,4
+215,Indian_22,,False,Latino_Hispanic,2
+216,Indian_23,,False,Indian,5
+217,Indian_24,,False,Southeast Asian,4
+218,Indian_25,,False,Indian,5
+219,Indian_26,,False,Indian,5
+220,Indian_27,,False,Southeast Asian,4
+221,Indian_28,,False,Latino_Hispanic,2
+222,Indian_29,,False,Indian,5
+223,Indian_3,,False,Indian,5
+224,Indian_30,,False,Southeast Asian,4
+225,Indian_31,,False,Southeast Asian,4
+226,Indian_32,,False,Southeast Asian,4
+227,Indian_33,,False,Indian,5
+228,Indian_34,,False,Southeast Asian,4
+229,Indian_35,,False,Indian,5
+230,Indian_36,,False,Indian,5
+231,Indian_37,,False,Indian,5
+232,Indian_38,,False,Indian,5
+233,Indian_39,,False,Southeast Asian,4
+234,Indian_4,,False,Indian,5
+235,Indian_40,,False,Southeast Asian,4
+236,Indian_41,,False,Southeast Asian,4
+237,Indian_42,,False,Indian,5
+238,Indian_43,,False,Indian,5
+239,Indian_44,,False,Latino_Hispanic,2
+240,Indian_45,,False,Indian,5
+241,Indian_46,,False,Indian,5
+242,Indian_47,,False,Southeast Asian,4
+243,Indian_48,,False,Indian,5
+244,Indian_49,,False,Indian,5
+245,Indian_5,,False,Indian,5
+246,Indian_50,,False,Southeast Asian,4
+247,Indian_51,,False,Southeast Asian,4
+248,Indian_52,,False,Southeast Asian,4
+249,Indian_53,,False,Indian,5
+250,Indian_54,,False,Indian,5
+251,Indian_55,,False,Southeast Asian,4
+252,Indian_56,,False,Indian,5
+253,Indian_57,,False,Indian,5
+254,Indian_58,,False,Southeast Asian,4
+255,Indian_59,,False,Southeast Asian,4
+256,Indian_6,,False,Indian,5
+257,Indian_60,,False,Indian,5
+258,Indian_61,,False,Southeast Asian,4
+259,Indian_62,,False,Latino_Hispanic,2
+260,Indian_63,,False,Southeast Asian,4
+261,Indian_64,,False,Latino_Hispanic,2
+262,Indian_65,,False,Indian,5
+263,Indian_66,,False,Southeast Asian,4
+264,Indian_67,,False,Indian,5
+265,Indian_68,,False,Southeast Asian,4
+266,Indian_69,,False,Indian,5
+267,Indian_7,,False,Southeast Asian,4
+268,Indian_70,,False,Latino_Hispanic,2
+269,Indian_71,,False,Indian,5
+270,Indian_72,,False,Indian,5
+271,Indian_73,,False,Southeast Asian,4
+272,Indian_74,,False,Southeast Asian,4
+273,Indian_75,,False,Indian,5
+274,Indian_76,,False,Southeast Asian,4
+275,Indian_77,,False,Indian,5
+276,Indian_78,,False,Southeast Asian,4
+277,Indian_79,,False,Indian,5
+278,Indian_8,,False,Indian,5
+279,Indian_80,,False,Southeast Asian,4
+280,Indian_81,,False,Southeast Asian,4
+281,Indian_82,,False,Indian,5
+282,Indian_83,,False,Latino_Hispanic,2
+283,Indian_84,,False,Black,1
+284,Indian_85,,False,Southeast Asian,4
+285,Indian_86,,False,Indian,5
+286,Indian_87,,False,Southeast Asian,4
+287,Indian_88,,False,Indian,5
+288,Indian_89,,False,Latino_Hispanic,2
+289,Indian_9,,False,Southeast Asian,4
+290,Indian_90,,False,Indian,5
+291,Indian_91,,False,Southeast Asian,4
+292,Indian_92,,False,Southeast Asian,4
+293,Indian_93,,False,Indian,5
+294,Indian_94,,False,Southeast Asian,4
+295,Indian_95,,False,Southeast Asian,4
+296,Indian_96,,False,Indian,5
+297,Indian_97,,False,Southeast Asian,4
+298,Indian_98,,False,Indian,5
+299,Indian_99,,False,Southeast Asian,4
+300,Latino_Hispanic_0,,False,Southeast Asian,4
+301,Latino_Hispanic_1,,False,Southeast Asian,4
+302,Latino_Hispanic_10,,False,Latino_Hispanic,2
+303,Latino_Hispanic_11,,False,Latino_Hispanic,2
+304,Latino_Hispanic_12,,False,Southeast Asian,4
+305,Latino_Hispanic_13,,False,Indian,5
+306,Latino_Hispanic_14,,False,Latino_Hispanic,2
+307,Latino_Hispanic_15,,False,Latino_Hispanic,2
+308,Latino_Hispanic_16,,False,Indian,5
+309,Latino_Hispanic_17,,False,Latino_Hispanic,2
+310,Latino_Hispanic_18,,False,Latino_Hispanic,2
+311,Latino_Hispanic_19,,False,Latino_Hispanic,2
+312,Latino_Hispanic_2,,False,Latino_Hispanic,2
+313,Latino_Hispanic_20,,False,Southeast Asian,4
+314,Latino_Hispanic_21,,False,Latino_Hispanic,2
+315,Latino_Hispanic_22,,False,Latino_Hispanic,2
+316,Latino_Hispanic_23,,False,Latino_Hispanic,2
+317,Latino_Hispanic_24,,False,Southeast Asian,4
+318,Latino_Hispanic_25,,False,Southeast Asian,4
+319,Latino_Hispanic_26,,False,Southeast Asian,4
+320,Latino_Hispanic_27,,False,Latino_Hispanic,2
+321,Latino_Hispanic_28,,False,East Asian,3
+322,Latino_Hispanic_29,,False,Latino_Hispanic,2
+323,Latino_Hispanic_3,,False,East Asian,3
+324,Latino_Hispanic_30,,False,Latino_Hispanic,2
+325,Latino_Hispanic_31,,False,Latino_Hispanic,2
+326,Latino_Hispanic_32,,False,Latino_Hispanic,2
+327,Latino_Hispanic_33,,False,Indian,5
+328,Latino_Hispanic_34,,False,Southeast Asian,4
+329,Latino_Hispanic_35,,False,Latino_Hispanic,2
+330,Latino_Hispanic_36,,False,Southeast Asian,4
+331,Latino_Hispanic_37,,False,Indian,5
+332,Latino_Hispanic_38,,False,Southeast Asian,4
+333,Latino_Hispanic_39,,False,Latino_Hispanic,2
+334,Latino_Hispanic_4,,False,Latino_Hispanic,2
+335,Latino_Hispanic_40,,False,Southeast Asian,4
+336,Latino_Hispanic_41,,False,Indian,5
+337,Latino_Hispanic_42,,False,Indian,5
+338,Latino_Hispanic_43,,False,Latino_Hispanic,2
+339,Latino_Hispanic_44,,False,Southeast Asian,4
+340,Latino_Hispanic_45,,False,Southeast Asian,4
+341,Latino_Hispanic_46,,False,Indian,5
+342,Latino_Hispanic_47,,False,Latino_Hispanic,2
+343,Latino_Hispanic_48,,False,Indian,5
+344,Latino_Hispanic_49,,False,Latino_Hispanic,2
+345,Latino_Hispanic_5,,False,Latino_Hispanic,2
+346,Latino_Hispanic_50,,False,Latino_Hispanic,2
+347,Latino_Hispanic_51,,False,Latino_Hispanic,2
+348,Latino_Hispanic_52,,False,Latino_Hispanic,2
+349,Latino_Hispanic_53,,False,Indian,5
+350,Latino_Hispanic_54,,False,Latino_Hispanic,2
+351,Latino_Hispanic_55,,False,Southeast Asian,4
+352,Latino_Hispanic_56,,False,Latino_Hispanic,2
+353,Latino_Hispanic_57,,False,Latino_Hispanic,2
+354,Latino_Hispanic_58,,False,Latino_Hispanic,2
+355,Latino_Hispanic_59,,False,Latino_Hispanic,2
+356,Latino_Hispanic_6,,False,Indian,5
+357,Latino_Hispanic_60,,False,Latino_Hispanic,2
+358,Latino_Hispanic_61,,False,Indian,5
+359,Latino_Hispanic_62,,False,Southeast Asian,4
+360,Latino_Hispanic_63,,False,Latino_Hispanic,2
+361,Latino_Hispanic_64,,False,Latino_Hispanic,2
+362,Latino_Hispanic_65,,False,Latino_Hispanic,2
+363,Latino_Hispanic_66,,False,Southeast Asian,4
+364,Latino_Hispanic_67,,False,Latino_Hispanic,2
+365,Latino_Hispanic_68,,False,Latino_Hispanic,2
+366,Latino_Hispanic_69,,False,Southeast Asian,4
+367,Latino_Hispanic_7,,False,East Asian,3
+368,Latino_Hispanic_70,,False,Latino_Hispanic,2
+369,Latino_Hispanic_71,,False,Latino_Hispanic,2
+370,Latino_Hispanic_72,,False,Southeast Asian,4
+371,Latino_Hispanic_73,,False,Indian,5
+372,Latino_Hispanic_74,,False,Southeast Asian,4
+373,Latino_Hispanic_75,,False,Latino_Hispanic,2
+374,Latino_Hispanic_76,,False,Indian,5
+375,Latino_Hispanic_77,,False,Latino_Hispanic,2
+376,Latino_Hispanic_78,,False,Southeast Asian,4
+377,Latino_Hispanic_79,,False,Indian,5
+378,Latino_Hispanic_8,,False,Latino_Hispanic,2
+379,Latino_Hispanic_80,,False,Indian,5
+380,Latino_Hispanic_81,,False,Indian,5
+381,Latino_Hispanic_82,,False,Indian,5
+382,Latino_Hispanic_83,,False,Latino_Hispanic,2
+383,Latino_Hispanic_84,,False,Southeast Asian,4
+384,Latino_Hispanic_85,,False,Latino_Hispanic,2
+385,Latino_Hispanic_86,,False,Latino_Hispanic,2
+386,Latino_Hispanic_87,,False,Latino_Hispanic,2
+387,Latino_Hispanic_88,,False,Latino_Hispanic,2
+388,Latino_Hispanic_89,,False,Latino_Hispanic,2
+389,Latino_Hispanic_9,,False,Latino_Hispanic,2
+390,Latino_Hispanic_90,,False,Southeast Asian,4
+391,Latino_Hispanic_91,,False,Southeast Asian,4
+392,Latino_Hispanic_92,,False,Southeast Asian,4
+393,Latino_Hispanic_93,,False,Latino_Hispanic,2
+394,Latino_Hispanic_94,,False,Latino_Hispanic,2
+395,Latino_Hispanic_95,,False,Indian,5
+396,Latino_Hispanic_96,,False,Latino_Hispanic,2
+397,Latino_Hispanic_97,,False,Southeast Asian,4
+398,Latino_Hispanic_98,,False,Latino_Hispanic,2
+399,Latino_Hispanic_99,,False,Indian,5
+400,Middle Eastern_0,,False,Latino_Hispanic,2
+401,Middle Eastern_1,,False,Southeast Asian,4
+402,Middle Eastern_10,,False,Latino_Hispanic,2
+403,Middle Eastern_11,,False,Latino_Hispanic,2
+404,Middle Eastern_12,,False,Indian,5
+405,Middle Eastern_13,,False,Latino_Hispanic,2
+406,Middle Eastern_14,,False,Indian,5
+407,Middle Eastern_15,,False,Southeast Asian,4
+408,Middle Eastern_16,,False,Latino_Hispanic,2
+409,Middle Eastern_17,,False,Southeast Asian,4
+410,Middle Eastern_18,,False,Southeast Asian,4
+411,Middle Eastern_19,,False,Latino_Hispanic,2
+412,Middle Eastern_2,,False,Latino_Hispanic,2
+413,Middle Eastern_20,,False,Latino_Hispanic,2
+414,Middle Eastern_21,,False,Indian,5
+415,Middle Eastern_22,,False,Indian,5
+416,Middle Eastern_23,,False,Latino_Hispanic,2
+417,Middle Eastern_24,,False,Southeast Asian,4
+418,Middle Eastern_25,,False,Indian,5
+419,Middle Eastern_26,,False,Latino_Hispanic,2
+420,Middle Eastern_27,,False,Latino_Hispanic,2
+421,Middle Eastern_28,,False,Latino_Hispanic,2
+422,Middle Eastern_29,,False,Indian,5
+423,Middle Eastern_3,,False,Latino_Hispanic,2
+424,Middle Eastern_30,,False,Latino_Hispanic,2
+425,Middle Eastern_31,,False,Latino_Hispanic,2
+426,Middle Eastern_32,,False,Southeast Asian,4
+427,Middle Eastern_33,,False,Indian,5
+428,Middle Eastern_34,,False,Indian,5
+429,Middle Eastern_35,,False,Latino_Hispanic,2
+430,Middle Eastern_36,,False,Latino_Hispanic,2
+431,Middle Eastern_37,,False,Latino_Hispanic,2
+432,Middle Eastern_38,,False,Southeast Asian,4
+433,Middle Eastern_39,,False,Latino_Hispanic,2
+434,Middle Eastern_4,,False,Southeast Asian,4
+435,Middle Eastern_40,,False,Latino_Hispanic,2
+436,Middle Eastern_41,,False,Southeast Asian,4
+437,Middle Eastern_42,,False,Southeast Asian,4
+438,Middle Eastern_43,,False,Latino_Hispanic,2
+439,Middle Eastern_44,,False,Latino_Hispanic,2
+440,Middle Eastern_45,,False,Latino_Hispanic,2
+441,Middle Eastern_46,,False,Indian,5
+442,Middle Eastern_47,,False,Indian,5
+443,Middle Eastern_48,,False,Southeast Asian,4
+444,Middle Eastern_49,,False,Indian,5
+445,Middle Eastern_5,,False,Southeast Asian,4
+446,Middle Eastern_50,,False,Indian,5
+447,Middle Eastern_51,,False,Indian,5
+448,Middle Eastern_52,,False,Indian,5
+449,Middle Eastern_53,,False,Latino_Hispanic,2
+450,Middle Eastern_54,,False,Latino_Hispanic,2
+451,Middle Eastern_55,,False,Southeast Asian,4
+452,Middle Eastern_56,,False,Southeast Asian,4
+453,Middle Eastern_57,,False,Southeast Asian,4
+454,Middle Eastern_58,,False,Southeast Asian,4
+455,Middle Eastern_59,,False,East Asian,3
+456,Middle Eastern_6,,False,Southeast Asian,4
+457,Middle Eastern_60,,False,Indian,5
+458,Middle Eastern_61,,False,Latino_Hispanic,2
+459,Middle Eastern_62,,False,Southeast Asian,4
+460,Middle Eastern_63,,False,Indian,5
+461,Middle Eastern_64,,False,Latino_Hispanic,2
+462,Middle Eastern_65,,False,Latino_Hispanic,2
+463,Middle Eastern_66,,False,Indian,5
+464,Middle Eastern_67,,False,Latino_Hispanic,2
+465,Middle Eastern_68,,False,Latino_Hispanic,2
+466,Middle Eastern_69,,False,Indian,5
+467,Middle Eastern_7,,False,Southeast Asian,4
+468,Middle Eastern_70,,False,Southeast Asian,4
+469,Middle Eastern_71,,False,Indian,5
+470,Middle Eastern_72,,False,Indian,5
+471,Middle Eastern_73,,False,Southeast Asian,4
+472,Middle Eastern_74,,False,Southeast Asian,4
+473,Middle Eastern_75,,False,Latino_Hispanic,2
+474,Middle Eastern_76,,False,Southeast Asian,4
+475,Middle Eastern_77,,False,Latino_Hispanic,2
+476,Middle Eastern_78,,False,Indian,5
+477,Middle Eastern_79,,False,Latino_Hispanic,2
+478,Middle Eastern_8,,False,Indian,5
+479,Middle Eastern_80,,False,Latino_Hispanic,2
+480,Middle Eastern_81,,False,Indian,5
+481,Middle Eastern_82,,False,Southeast Asian,4
+482,Middle Eastern_83,,False,Southeast Asian,4
+483,Middle Eastern_84,,False,Southeast Asian,4
+484,Middle Eastern_85,,False,Southeast Asian,4
+485,Middle Eastern_86,,False,Latino_Hispanic,2
+486,Middle Eastern_87,,False,Indian,5
+487,Middle Eastern_88,,False,Indian,5
+488,Middle Eastern_89,,False,Southeast Asian,4
+489,Middle Eastern_9,,False,Indian,5
+490,Middle Eastern_90,,False,Latino_Hispanic,2
+491,Middle Eastern_91,,False,Indian,5
+492,Middle Eastern_92,,False,Latino_Hispanic,2
+493,Middle Eastern_93,,False,Latino_Hispanic,2
+494,Middle Eastern_94,,False,Indian,5
+495,Middle Eastern_95,,False,Southeast Asian,4
+496,Middle Eastern_96,,False,Latino_Hispanic,2
+497,Middle Eastern_97,,False,Southeast Asian,4
+498,Middle Eastern_98,,False,Latino_Hispanic,2
+499,Middle Eastern_99,,False,Indian,5
+500,Southeast Asian_0,,False,Latino_Hispanic,2
+501,Southeast Asian_1,,False,Latino_Hispanic,2
+502,Southeast Asian_10,,False,Southeast Asian,4
+503,Southeast Asian_11,,False,Southeast Asian,4
+504,Southeast Asian_12,,False,Indian,5
+505,Southeast Asian_13,,False,Southeast Asian,4
+506,Southeast Asian_14,,False,Southeast Asian,4
+507,Southeast Asian_15,,False,Latino_Hispanic,2
+508,Southeast Asian_16,,False,Southeast Asian,4
+509,Southeast Asian_17,,False,Southeast Asian,4
+510,Southeast Asian_18,,False,Latino_Hispanic,2
+511,Southeast Asian_19,,False,Southeast Asian,4
+512,Southeast Asian_2,,False,Southeast Asian,4
+513,Southeast Asian_20,,False,Indian,5
+514,Southeast Asian_21,,False,Southeast Asian,4
+515,Southeast Asian_22,,False,Southeast Asian,4
+516,Southeast Asian_23,,False,Indian,5
+517,Southeast Asian_24,,False,Indian,5
+518,Southeast Asian_25,,False,Southeast Asian,4
+519,Southeast Asian_26,,False,Latino_Hispanic,2
+520,Southeast Asian_27,,False,Southeast Asian,4
+521,Southeast Asian_28,,False,Latino_Hispanic,2
+522,Southeast Asian_29,,False,Southeast Asian,4
+523,Southeast Asian_3,,False,Indian,5
+524,Southeast Asian_30,,False,Southeast Asian,4
+525,Southeast Asian_31,,False,Southeast Asian,4
+526,Southeast Asian_32,,False,Southeast Asian,4
+527,Southeast Asian_33,,False,Latino_Hispanic,2
+528,Southeast Asian_34,,False,Southeast Asian,4
+529,Southeast Asian_35,,False,Southeast Asian,4
+530,Southeast Asian_36,,False,Indian,5
+531,Southeast Asian_37,,False,Latino_Hispanic,2
+532,Southeast Asian_38,,False,Black,1
+533,Southeast Asian_39,,False,Southeast Asian,4
+534,Southeast Asian_4,,False,Indian,5
+535,Southeast Asian_40,,False,Latino_Hispanic,2
+536,Southeast Asian_41,,False,Southeast Asian,4
+537,Southeast Asian_42,,False,Indian,5
+538,Southeast Asian_43,,False,Indian,5
+539,Southeast Asian_44,,False,Latino_Hispanic,2
+540,Southeast Asian_45,,False,Southeast Asian,4
+541,Southeast Asian_46,,False,Latino_Hispanic,2
+542,Southeast Asian_47,,False,Latino_Hispanic,2
+543,Southeast Asian_48,,False,Latino_Hispanic,2
+544,Southeast Asian_49,,False,Southeast Asian,4
+545,Southeast Asian_5,,False,Latino_Hispanic,2
+546,Southeast Asian_50,,False,Latino_Hispanic,2
+547,Southeast Asian_51,,False,Latino_Hispanic,2
+548,Southeast Asian_52,,False,Latino_Hispanic,2
+549,Southeast Asian_53,,False,Latino_Hispanic,2
+550,Southeast Asian_54,,False,Latino_Hispanic,2
+551,Southeast Asian_55,,False,Indian,5
+552,Southeast Asian_56,,False,Southeast Asian,4
+553,Southeast Asian_57,,False,Latino_Hispanic,2
+554,Southeast Asian_58,,False,Southeast Asian,4
+555,Southeast Asian_59,,False,Latino_Hispanic,2
+556,Southeast Asian_6,,False,Southeast Asian,4
+557,Southeast Asian_60,,False,Southeast Asian,4
+558,Southeast Asian_61,,False,Southeast Asian,4
+559,Southeast Asian_62,,False,Southeast Asian,4
+560,Southeast Asian_63,,False,Southeast Asian,4
+561,Southeast Asian_64,,False,Latino_Hispanic,2
+562,Southeast Asian_65,,False,Indian,5
+563,Southeast Asian_66,,False,Indian,5
+564,Southeast Asian_67,,False,Indian,5
+565,Southeast Asian_68,,False,Southeast Asian,4
+566,Southeast Asian_69,,False,Indian,5
+567,Southeast Asian_7,,False,Indian,5
+568,Southeast Asian_70,,False,Southeast Asian,4
+569,Southeast Asian_71,,False,Southeast Asian,4
+570,Southeast Asian_72,,False,Southeast Asian,4
+571,Southeast Asian_73,,False,Indian,5
+572,Southeast Asian_74,,False,Southeast Asian,4
+573,Southeast Asian_75,,False,Latino_Hispanic,2
+574,Southeast Asian_76,,False,Indian,5
+575,Southeast Asian_77,,False,Latino_Hispanic,2
+576,Southeast Asian_78,,False,Latino_Hispanic,2
+577,Southeast Asian_79,,False,Southeast Asian,4
+578,Southeast Asian_8,,False,Southeast Asian,4
+579,Southeast Asian_80,,False,Southeast Asian,4
+580,Southeast Asian_81,,False,Southeast Asian,4
+581,Southeast Asian_82,,False,Southeast Asian,4
+582,Southeast Asian_83,,False,Southeast Asian,4
+583,Southeast Asian_84,,False,Southeast Asian,4
+584,Southeast Asian_85,,False,Latino_Hispanic,2
+585,Southeast Asian_86,,False,Indian,5
+586,Southeast Asian_87,,False,Latino_Hispanic,2
+587,Southeast Asian_88,,False,Indian,5
+588,Southeast Asian_89,,False,Southeast Asian,4
+589,Southeast Asian_9,,False,Indian,5
+590,Southeast Asian_90,,False,Southeast Asian,4
+591,Southeast Asian_91,,False,Southeast Asian,4
+592,Southeast Asian_92,,False,Southeast Asian,4
+593,Southeast Asian_93,,False,Southeast Asian,4
+594,Southeast Asian_94,,False,Southeast Asian,4
+595,Southeast Asian_95,,False,Southeast Asian,4
+596,Southeast Asian_96,,False,Indian,5
+597,Southeast Asian_97,,False,Indian,5
+598,Southeast Asian_98,,False,Black,1
+599,Southeast Asian_99,,False,Latino_Hispanic,2
+600,White_0,,False,White,0
+601,White_1,,False,Latino_Hispanic,2
+602,White_10,,False,Latino_Hispanic,2
+603,White_11,,False,White,0
+604,White_12,,False,Latino_Hispanic,2
+605,White_13,,False,White,0
+606,White_14,,False,White,0
+607,White_15,,False,White,0
+608,White_16,,False,Indian,5
+609,White_17,,False,White,0
+610,White_18,,False,White,0
+611,White_19,,False,Latino_Hispanic,2
+612,White_2,,False,East Asian,3
+613,White_20,,False,Latino_Hispanic,2
+614,White_21,,False,White,0
+615,White_22,,False,White,0
+616,White_23,,False,White,0
+617,White_24,,False,Latino_Hispanic,2
+618,White_25,,False,East Asian,3
+619,White_26,,False,Latino_Hispanic,2
+620,White_27,,False,Latino_Hispanic,2
+621,White_28,,False,Latino_Hispanic,2
+622,White_29,,False,Latino_Hispanic,2
+623,White_3,,False,White,0
+624,White_30,,False,Latino_Hispanic,2
+625,White_31,,False,Latino_Hispanic,2
+626,White_32,,False,Latino_Hispanic,2
+627,White_33,,False,Latino_Hispanic,2
+628,White_34,,False,Latino_Hispanic,2
+629,White_35,,False,White,0
+630,White_36,,False,Southeast Asian,4
+631,White_37,,False,White,0
+632,White_38,,False,White,0
+633,White_39,,False,East Asian,3
+634,White_4,,False,White,0
+635,White_40,,False,White,0
+636,White_41,,False,Latino_Hispanic,2
+637,White_42,,False,Latino_Hispanic,2
+638,White_43,,False,Latino_Hispanic,2
+639,White_44,,False,Latino_Hispanic,2
+640,White_45,,False,Latino_Hispanic,2
+641,White_46,,False,Latino_Hispanic,2
+642,White_47,,False,White,0
+643,White_48,,False,Latino_Hispanic,2
+644,White_49,,False,Latino_Hispanic,2
+645,White_5,,False,White,0
+646,White_50,,False,Latino_Hispanic,2
+647,White_51,,False,Latino_Hispanic,2
+648,White_52,,False,Latino_Hispanic,2
+649,White_53,,False,White,0
+650,White_54,,False,Latino_Hispanic,2
+651,White_55,,False,Latino_Hispanic,2
+652,White_56,,False,Latino_Hispanic,2
+653,White_57,,False,White,0
+654,White_58,,False,Latino_Hispanic,2
+655,White_59,,False,White,0
+656,White_6,,False,White,0
+657,White_60,,False,Latino_Hispanic,2
+658,White_61,,False,White,0
+659,White_62,,False,Latino_Hispanic,2
+660,White_63,,False,White,0
+661,White_64,,False,White,0
+662,White_65,,False,Latino_Hispanic,2
+663,White_66,,False,White,0
+664,White_67,,False,White,0
+665,White_68,,False,Latino_Hispanic,2
+666,White_69,,False,White,0
+667,White_7,,False,Latino_Hispanic,2
+668,White_70,,False,East Asian,3
+669,White_71,,False,Latino_Hispanic,2
+670,White_72,,False,White,0
+671,White_73,,False,White,0
+672,White_74,,False,Latino_Hispanic,2
+673,White_75,,False,Latino_Hispanic,2
+674,White_76,,False,Latino_Hispanic,2
+675,White_77,,False,Southeast Asian,4
+676,White_78,,False,Latino_Hispanic,2
+677,White_79,,False,Latino_Hispanic,2
+678,White_8,,False,White,0
+679,White_80,,False,White,0
+680,White_81,,False,White,0
+681,White_82,,False,White,0
+682,White_83,,False,Latino_Hispanic,2
+683,White_84,,False,Latino_Hispanic,2
+684,White_85,,False,Latino_Hispanic,2
+685,White_86,,False,Latino_Hispanic,2
+686,White_87,,False,Latino_Hispanic,2
+687,White_88,,False,Latino_Hispanic,2
+688,White_89,,False,Latino_Hispanic,2
+689,White_9,,False,Southeast Asian,4
+690,White_90,,False,Latino_Hispanic,2
+691,White_91,,False,Latino_Hispanic,2
+692,White_92,,False,White,0
+693,White_93,,False,Latino_Hispanic,2
+694,White_94,,False,Latino_Hispanic,2
+695,White_95,,False,White,0
+696,White_96,,False,Indian,5
+697,White_97,,False,White,0
+698,White_98,,False,Southeast Asian,4
+699,White_99,,False,Latino_Hispanic,2

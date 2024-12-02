@@ -1,0 +1,701 @@
+,race,race_id,race_0-1,race_recon,race_recon_id
+0,Black,3,False,White,0
+1,Black,3,False,White,0
+2,Black,3,False,White,0
+3,Black,3,False,White,0
+4,Black,3,False,White,0
+5,Black,3,False,White,0
+6,Black,3,False,White,0
+7,Black,3,False,White,0
+8,Black,3,False,White,0
+9,Black,3,False,White,0
+10,Black,3,False,Middle Eastern,6
+11,Black,3,False,White,0
+12,Black,3,False,White,0
+13,Black,3,False,White,0
+14,Black,3,False,White,0
+15,Black,3,False,Middle Eastern,6
+16,Black,3,False,White,0
+17,Black,3,False,White,0
+18,Black,3,False,White,0
+19,Black,3,False,East Asian,3
+20,Black,3,False,White,0
+21,Black,3,False,Latino_Hispanic,2
+22,Black,3,False,White,0
+23,Black,3,False,Middle Eastern,6
+24,Black,3,False,White,0
+25,Black,3,False,White,0
+26,Black,3,False,Middle Eastern,6
+27,Black,3,False,Middle Eastern,6
+28,Black,3,False,White,0
+29,Black,3,False,White,0
+30,Black,3,False,White,0
+31,Black,3,False,White,0
+32,Black,3,False,White,0
+33,Black,3,True,Black,1
+34,Black,3,False,White,0
+35,Black,3,False,White,0
+36,Black,3,False,White,0
+37,Black,3,False,White,0
+38,Black,3,False,White,0
+39,Black,3,False,White,0
+40,Black,3,False,White,0
+41,Black,3,False,White,0
+42,Black,3,False,Middle Eastern,6
+43,Black,3,False,White,0
+44,Black,3,False,White,0
+45,Black,3,False,White,0
+46,Black,3,False,White,0
+47,Black,3,False,White,0
+48,Black,3,False,White,0
+49,Black,3,False,White,0
+50,Black,3,False,White,0
+51,Black,3,False,White,0
+52,Black,3,False,Middle Eastern,6
+53,Black,3,False,White,0
+54,Black,3,False,Latino_Hispanic,2
+55,Black,3,False,White,0
+56,Black,3,False,Middle Eastern,6
+57,Black,3,False,White,0
+58,Black,3,False,White,0
+59,Black,3,False,East Asian,3
+60,Black,3,False,White,0
+61,Black,3,False,White,0
+62,Black,3,False,Middle Eastern,6
+63,Black,3,False,White,0
+64,Black,3,False,White,0
+65,Black,3,False,White,0
+66,Black,3,False,White,0
+67,Black,3,False,White,0
+68,Black,3,False,White,0
+69,Black,3,False,White,0
+70,Black,3,False,East Asian,3
+71,Black,3,False,White,0
+72,Black,3,False,White,0
+73,Black,3,False,White,0
+74,Black,3,False,White,0
+75,Black,3,False,Latino_Hispanic,2
+76,Black,3,False,White,0
+77,Black,3,False,White,0
+78,Black,3,False,White,0
+79,Black,3,False,White,0
+80,Black,3,False,White,0
+81,Black,3,False,White,0
+82,Black,3,False,White,0
+83,Black,3,False,Middle Eastern,6
+84,Black,3,False,White,0
+85,Black,3,False,White,0
+86,Black,3,False,White,0
+87,Black,3,False,White,0
+88,Black,3,False,White,0
+89,Black,3,False,Middle Eastern,6
+90,Black,3,False,White,0
+91,Black,3,False,White,0
+92,Black,3,False,White,0
+93,Black,3,False,White,0
+94,Black,3,False,Latino_Hispanic,2
+95,Black,3,False,Middle Eastern,6
+96,Black,3,False,White,0
+97,Black,3,False,White,0
+98,Black,3,False,White,0
+99,Black,3,False,White,0
+100,East Asian,3,False,White,0
+101,East Asian,3,False,Middle Eastern,6
+102,East Asian,3,False,White,0
+103,East Asian,3,False,Latino_Hispanic,2
+104,East Asian,3,False,White,0
+105,East Asian,3,False,White,0
+106,East Asian,3,False,Middle Eastern,6
+107,East Asian,3,False,White,0
+108,East Asian,3,False,White,0
+109,East Asian,3,False,White,0
+110,East Asian,3,False,White,0
+111,East Asian,3,False,White,0
+112,East Asian,3,False,Middle Eastern,6
+113,East Asian,3,True,East Asian,3
+114,East Asian,3,False,White,0
+115,East Asian,3,True,East Asian,3
+116,East Asian,3,False,White,0
+117,East Asian,3,False,White,0
+118,East Asian,3,False,White,0
+119,East Asian,3,False,Middle Eastern,6
+120,East Asian,3,False,White,0
+121,East Asian,3,True,East Asian,3
+122,East Asian,3,True,East Asian,3
+123,East Asian,3,False,White,0
+124,East Asian,3,False,White,0
+125,East Asian,3,False,Middle Eastern,6
+126,East Asian,3,False,White,0
+127,East Asian,3,False,White,0
+128,East Asian,5,False,White,0
+129,East Asian,5,False,White,0
+130,East Asian,5,False,White,0
+131,East Asian,5,False,White,0
+132,East Asian,5,False,White,0
+133,East Asian,5,False,White,0
+134,East Asian,5,False,White,0
+135,East Asian,5,False,White,0
+136,East Asian,5,False,White,0
+137,East Asian,5,False,White,0
+138,East Asian,5,False,Middle Eastern,6
+139,East Asian,5,False,Middle Eastern,6
+140,East Asian,5,False,White,0
+141,East Asian,5,False,White,0
+142,East Asian,5,True,East Asian,3
+143,East Asian,5,False,White,0
+144,East Asian,5,False,White,0
+145,East Asian,5,False,White,0
+146,East Asian,5,False,White,0
+147,East Asian,5,False,White,0
+148,East Asian,5,False,White,0
+149,East Asian,5,False,White,0
+150,East Asian,5,False,Middle Eastern,6
+151,East Asian,5,False,White,0
+152,East Asian,5,False,White,0
+153,East Asian,5,False,Middle Eastern,6
+154,East Asian,5,False,White,0
+155,East Asian,5,False,White,0
+156,East Asian,5,False,White,0
+157,East Asian,5,False,White,0
+158,East Asian,5,True,East Asian,3
+159,East Asian,5,False,Latino_Hispanic,2
+160,East Asian,5,False,White,0
+161,East Asian,5,False,White,0
+162,East Asian,5,False,White,0
+163,East Asian,5,False,White,0
+164,East Asian,5,False,White,0
+165,East Asian,5,False,White,0
+166,East Asian,5,False,White,0
+167,East Asian,5,True,East Asian,3
+168,East Asian,5,False,White,0
+169,East Asian,5,False,White,0
+170,East Asian,5,True,East Asian,3
+171,East Asian,5,False,Middle Eastern,6
+172,East Asian,5,False,White,0
+173,East Asian,5,False,White,0
+174,East Asian,5,False,White,0
+175,East Asian,5,False,Middle Eastern,6
+176,East Asian,5,False,Middle Eastern,6
+177,East Asian,5,False,White,0
+178,East Asian,5,False,White,0
+179,East Asian,5,False,Latino_Hispanic,2
+180,East Asian,5,False,White,0
+181,East Asian,5,False,White,0
+182,East Asian,5,False,White,0
+183,East Asian,5,False,White,0
+184,East Asian,5,False,White,0
+185,East Asian,5,False,White,0
+186,East Asian,5,True,East Asian,3
+187,East Asian,5,True,East Asian,3
+188,East Asian,5,False,White,0
+189,East Asian,5,False,Middle Eastern,6
+190,East Asian,5,False,White,0
+191,East Asian,5,False,Middle Eastern,6
+192,East Asian,5,False,White,0
+193,East Asian,5,False,White,0
+194,East Asian,5,False,White,0
+195,East Asian,5,False,White,0
+196,East Asian,5,False,White,0
+197,East Asian,5,False,White,0
+198,East Asian,5,False,Middle Eastern,6
+199,East Asian,5,False,White,0
+200,Indian,5,False,Middle Eastern,6
+201,Indian,5,False,White,0
+202,Indian,5,False,Middle Eastern,6
+203,Indian,5,False,East Asian,3
+204,Indian,5,False,White,0
+205,Indian,5,False,Middle Eastern,6
+206,Indian,5,False,White,0
+207,Indian,5,False,White,0
+208,Indian,5,False,White,0
+209,Indian,5,False,White,0
+210,Indian,5,False,Middle Eastern,6
+211,Indian,5,False,White,0
+212,Indian,5,False,Middle Eastern,6
+213,Indian,5,False,White,0
+214,Indian,5,False,Latino_Hispanic,2
+215,Indian,5,False,East Asian,3
+216,Indian,5,False,East Asian,3
+217,Indian,5,False,White,0
+218,Indian,5,False,White,0
+219,Indian,5,False,White,0
+220,Indian,5,False,White,0
+221,Indian,5,False,Middle Eastern,6
+222,Indian,5,False,White,0
+223,Indian,5,False,White,0
+224,Indian,5,False,White,0
+225,Indian,5,False,Latino_Hispanic,2
+226,Indian,5,False,White,0
+227,Indian,5,False,White,0
+228,Indian,5,False,Middle Eastern,6
+229,Indian,5,False,White,0
+230,Indian,5,False,White,0
+231,Indian,5,False,White,0
+232,Indian,5,False,White,0
+233,Indian,5,False,Middle Eastern,6
+234,Indian,5,False,White,0
+235,Indian,5,False,Black,1
+236,Indian,5,False,Middle Eastern,6
+237,Indian,5,False,White,0
+238,Indian,5,False,Latino_Hispanic,2
+239,Indian,5,False,White,0
+240,Indian,5,False,Latino_Hispanic,2
+241,Indian,5,False,Middle Eastern,6
+242,Indian,5,True,Indian,5
+243,Indian,5,False,Latino_Hispanic,2
+244,Indian,5,False,Middle Eastern,6
+245,Indian,5,False,Middle Eastern,6
+246,Indian,5,False,Latino_Hispanic,2
+247,Indian,5,False,Middle Eastern,6
+248,Indian,5,False,White,0
+249,Indian,5,False,White,0
+250,Indian,5,False,Black,1
+251,Indian,5,False,East Asian,3
+252,Indian,5,False,Middle Eastern,6
+253,Indian,5,False,White,0
+254,Indian,5,False,White,0
+255,Indian,5,False,White,0
+256,Indian,2,False,White,0
+257,Indian,2,False,East Asian,3
+258,Indian,2,False,White,0
+259,Indian,2,False,Middle Eastern,6
+260,Indian,2,False,White,0
+261,Indian,2,False,White,0
+262,Indian,2,False,White,0
+263,Indian,2,False,White,0
+264,Indian,2,False,White,0
+265,Indian,2,False,White,0
+266,Indian,2,False,White,0
+267,Indian,2,False,White,0
+268,Indian,2,False,Middle Eastern,6
+269,Indian,2,False,White,0
+270,Indian,2,False,White,0
+271,Indian,2,False,White,0
+272,Indian,2,False,White,0
+273,Indian,2,False,White,0
+274,Indian,2,False,White,0
+275,Indian,2,False,Middle Eastern,6
+276,Indian,2,False,Middle Eastern,6
+277,Indian,2,False,White,0
+278,Indian,2,False,Black,1
+279,Indian,2,False,White,0
+280,Indian,2,False,East Asian,3
+281,Indian,2,False,White,0
+282,Indian,2,False,White,0
+283,Indian,2,False,White,0
+284,Indian,2,False,Middle Eastern,6
+285,Indian,2,False,White,0
+286,Indian,2,False,White,0
+287,Indian,2,False,Middle Eastern,6
+288,Indian,2,False,White,0
+289,Indian,2,False,White,0
+290,Indian,2,False,White,0
+291,Indian,2,False,White,0
+292,Indian,2,False,Middle Eastern,6
+293,Indian,2,False,White,0
+294,Indian,2,False,East Asian,3
+295,Indian,2,False,Latino_Hispanic,2
+296,Indian,2,False,White,0
+297,Indian,2,False,East Asian,3
+298,Indian,2,False,White,0
+299,Indian,2,False,White,0
+300,Latino_Hispanic,2,False,White,0
+301,Latino_Hispanic,2,False,Middle Eastern,6
+302,Latino_Hispanic,2,False,White,0
+303,Latino_Hispanic,2,False,White,0
+304,Latino_Hispanic,2,False,White,0
+305,Latino_Hispanic,2,False,White,0
+306,Latino_Hispanic,2,False,White,0
+307,Latino_Hispanic,2,False,White,0
+308,Latino_Hispanic,2,False,Middle Eastern,6
+309,Latino_Hispanic,2,False,White,0
+310,Latino_Hispanic,2,False,White,0
+311,Latino_Hispanic,2,False,Middle Eastern,6
+312,Latino_Hispanic,2,False,White,0
+313,Latino_Hispanic,2,False,White,0
+314,Latino_Hispanic,2,False,White,0
+315,Latino_Hispanic,2,False,White,0
+316,Latino_Hispanic,2,False,White,0
+317,Latino_Hispanic,2,False,White,0
+318,Latino_Hispanic,2,False,Middle Eastern,6
+319,Latino_Hispanic,2,False,White,0
+320,Latino_Hispanic,2,False,Middle Eastern,6
+321,Latino_Hispanic,2,False,White,0
+322,Latino_Hispanic,2,False,Middle Eastern,6
+323,Latino_Hispanic,2,False,White,0
+324,Latino_Hispanic,2,False,White,0
+325,Latino_Hispanic,2,False,White,0
+326,Latino_Hispanic,2,True,Latino_Hispanic,2
+327,Latino_Hispanic,2,False,White,0
+328,Latino_Hispanic,2,False,White,0
+329,Latino_Hispanic,2,False,White,0
+330,Latino_Hispanic,2,False,East Asian,3
+331,Latino_Hispanic,2,False,East Asian,3
+332,Latino_Hispanic,2,False,Middle Eastern,6
+333,Latino_Hispanic,2,False,White,0
+334,Latino_Hispanic,2,False,White,0
+335,Latino_Hispanic,2,False,Middle Eastern,6
+336,Latino_Hispanic,2,False,Middle Eastern,6
+337,Latino_Hispanic,2,False,White,0
+338,Latino_Hispanic,2,False,White,0
+339,Latino_Hispanic,2,False,White,0
+340,Latino_Hispanic,2,False,White,0
+341,Latino_Hispanic,2,False,Middle Eastern,6
+342,Latino_Hispanic,2,False,White,0
+343,Latino_Hispanic,2,False,White,0
+344,Latino_Hispanic,2,False,White,0
+345,Latino_Hispanic,2,False,White,0
+346,Latino_Hispanic,2,False,White,0
+347,Latino_Hispanic,2,False,White,0
+348,Latino_Hispanic,2,False,White,0
+349,Latino_Hispanic,2,False,Middle Eastern,6
+350,Latino_Hispanic,2,False,Middle Eastern,6
+351,Latino_Hispanic,2,False,White,0
+352,Latino_Hispanic,2,False,White,0
+353,Latino_Hispanic,2,False,Middle Eastern,6
+354,Latino_Hispanic,2,False,White,0
+355,Latino_Hispanic,2,False,White,0
+356,Latino_Hispanic,2,False,White,0
+357,Latino_Hispanic,2,False,White,0
+358,Latino_Hispanic,2,True,Latino_Hispanic,2
+359,Latino_Hispanic,2,False,White,0
+360,Latino_Hispanic,2,False,White,0
+361,Latino_Hispanic,2,False,White,0
+362,Latino_Hispanic,2,False,White,0
+363,Latino_Hispanic,2,False,Middle Eastern,6
+364,Latino_Hispanic,2,False,White,0
+365,Latino_Hispanic,2,True,Latino_Hispanic,2
+366,Latino_Hispanic,2,False,Middle Eastern,6
+367,Latino_Hispanic,2,False,White,0
+368,Latino_Hispanic,2,False,Middle Eastern,6
+369,Latino_Hispanic,2,True,Latino_Hispanic,2
+370,Latino_Hispanic,2,False,White,0
+371,Latino_Hispanic,2,False,White,0
+372,Latino_Hispanic,2,False,White,0
+373,Latino_Hispanic,2,False,White,0
+374,Latino_Hispanic,2,False,Middle Eastern,6
+375,Latino_Hispanic,2,False,White,0
+376,Latino_Hispanic,2,False,White,0
+377,Latino_Hispanic,2,False,White,0
+378,Latino_Hispanic,2,False,White,0
+379,Latino_Hispanic,2,False,White,0
+380,Latino_Hispanic,2,True,Latino_Hispanic,2
+381,Latino_Hispanic,2,False,Middle Eastern,6
+382,Latino_Hispanic,2,False,White,0
+383,Latino_Hispanic,2,False,White,0
+384,Latino_Hispanic,4,False,White,0
+385,Latino_Hispanic,4,False,White,0
+386,Latino_Hispanic,4,False,White,0
+387,Latino_Hispanic,4,False,White,0
+388,Latino_Hispanic,4,False,White,0
+389,Latino_Hispanic,4,False,White,0
+390,Latino_Hispanic,4,False,White,0
+391,Latino_Hispanic,4,False,White,0
+392,Latino_Hispanic,4,False,White,0
+393,Latino_Hispanic,4,False,White,0
+394,Latino_Hispanic,4,False,White,0
+395,Latino_Hispanic,4,False,White,0
+396,Latino_Hispanic,4,False,White,0
+397,Latino_Hispanic,4,False,White,0
+398,Latino_Hispanic,4,False,White,0
+399,Latino_Hispanic,4,False,White,0
+400,Middle Eastern,4,False,White,0
+401,Middle Eastern,4,True,Middle Eastern,6
+402,Middle Eastern,4,False,White,0
+403,Middle Eastern,4,False,East Asian,3
+404,Middle Eastern,4,True,Middle Eastern,6
+405,Middle Eastern,4,True,Middle Eastern,6
+406,Middle Eastern,4,False,White,0
+407,Middle Eastern,4,False,East Asian,3
+408,Middle Eastern,4,False,White,0
+409,Middle Eastern,4,False,White,0
+410,Middle Eastern,4,False,White,0
+411,Middle Eastern,4,True,Middle Eastern,6
+412,Middle Eastern,4,False,White,0
+413,Middle Eastern,4,False,White,0
+414,Middle Eastern,4,False,White,0
+415,Middle Eastern,4,True,Middle Eastern,6
+416,Middle Eastern,4,True,Middle Eastern,6
+417,Middle Eastern,4,False,White,0
+418,Middle Eastern,4,True,Middle Eastern,6
+419,Middle Eastern,4,False,White,0
+420,Middle Eastern,4,False,White,0
+421,Middle Eastern,4,True,Middle Eastern,6
+422,Middle Eastern,4,True,Middle Eastern,6
+423,Middle Eastern,4,False,White,0
+424,Middle Eastern,4,True,Middle Eastern,6
+425,Middle Eastern,4,True,Middle Eastern,6
+426,Middle Eastern,4,False,White,0
+427,Middle Eastern,4,True,Middle Eastern,6
+428,Middle Eastern,4,False,White,0
+429,Middle Eastern,4,False,White,0
+430,Middle Eastern,4,False,White,0
+431,Middle Eastern,4,False,White,0
+432,Middle Eastern,4,True,Middle Eastern,6
+433,Middle Eastern,4,False,White,0
+434,Middle Eastern,4,False,White,0
+435,Middle Eastern,4,False,White,0
+436,Middle Eastern,4,False,Black,1
+437,Middle Eastern,4,False,White,0
+438,Middle Eastern,4,False,White,0
+439,Middle Eastern,4,False,White,0
+440,Middle Eastern,4,False,White,0
+441,Middle Eastern,4,False,White,0
+442,Middle Eastern,4,False,White,0
+443,Middle Eastern,4,True,Middle Eastern,6
+444,Middle Eastern,4,False,White,0
+445,Middle Eastern,4,False,White,0
+446,Middle Eastern,4,False,White,0
+447,Middle Eastern,4,False,White,0
+448,Middle Eastern,4,True,Middle Eastern,6
+449,Middle Eastern,4,True,Middle Eastern,6
+450,Middle Eastern,4,True,Middle Eastern,6
+451,Middle Eastern,4,True,Middle Eastern,6
+452,Middle Eastern,4,False,White,0
+453,Middle Eastern,4,False,White,0
+454,Middle Eastern,4,False,White,0
+455,Middle Eastern,4,False,White,0
+456,Middle Eastern,4,False,White,0
+457,Middle Eastern,4,False,White,0
+458,Middle Eastern,4,True,Middle Eastern,6
+459,Middle Eastern,4,True,Middle Eastern,6
+460,Middle Eastern,4,False,White,0
+461,Middle Eastern,4,False,White,0
+462,Middle Eastern,4,False,White,0
+463,Middle Eastern,4,False,White,0
+464,Middle Eastern,4,False,White,0
+465,Middle Eastern,4,False,White,0
+466,Middle Eastern,4,True,Middle Eastern,6
+467,Middle Eastern,4,False,Latino_Hispanic,2
+468,Middle Eastern,4,True,Middle Eastern,6
+469,Middle Eastern,4,False,White,0
+470,Middle Eastern,4,False,White,0
+471,Middle Eastern,4,False,White,0
+472,Middle Eastern,4,False,White,0
+473,Middle Eastern,4,True,Middle Eastern,6
+474,Middle Eastern,4,True,Middle Eastern,6
+475,Middle Eastern,4,False,White,0
+476,Middle Eastern,4,False,White,0
+477,Middle Eastern,4,False,White,0
+478,Middle Eastern,4,False,White,0
+479,Middle Eastern,4,True,Middle Eastern,6
+480,Middle Eastern,4,False,White,0
+481,Middle Eastern,4,False,East Asian,3
+482,Middle Eastern,4,False,White,0
+483,Middle Eastern,4,False,White,0
+484,Middle Eastern,4,False,White,0
+485,Middle Eastern,4,False,Black,1
+486,Middle Eastern,4,False,White,0
+487,Middle Eastern,4,True,Middle Eastern,6
+488,Middle Eastern,4,False,East Asian,3
+489,Middle Eastern,4,False,White,0
+490,Middle Eastern,4,False,Black,1
+491,Middle Eastern,4,False,White,0
+492,Middle Eastern,4,True,Middle Eastern,6
+493,Middle Eastern,4,True,Middle Eastern,6
+494,Middle Eastern,4,False,Latino_Hispanic,2
+495,Middle Eastern,4,False,White,0
+496,Middle Eastern,4,False,White,0
+497,Middle Eastern,4,True,Middle Eastern,6
+498,Middle Eastern,4,True,Middle Eastern,6
+499,Middle Eastern,4,False,White,0
+500,Southeast Asian,4,False,White,0
+501,Southeast Asian,4,False,Middle Eastern,6
+502,Southeast Asian,4,False,White,0
+503,Southeast Asian,4,False,White,0
+504,Southeast Asian,4,False,Middle Eastern,6
+505,Southeast Asian,4,False,East Asian,3
+506,Southeast Asian,4,False,White,0
+507,Southeast Asian,4,False,White,0
+508,Southeast Asian,4,False,White,0
+509,Southeast Asian,4,False,Latino_Hispanic,2
+510,Southeast Asian,4,False,White,0
+511,Southeast Asian,4,False,White,0
+512,Southeast Asian,0,False,Latino_Hispanic,2
+513,Southeast Asian,0,False,White,0
+514,Southeast Asian,0,False,Middle Eastern,6
+515,Southeast Asian,0,False,White,0
+516,Southeast Asian,0,False,White,0
+517,Southeast Asian,0,False,White,0
+518,Southeast Asian,0,False,White,0
+519,Southeast Asian,0,False,White,0
+520,Southeast Asian,0,False,White,0
+521,Southeast Asian,0,False,East Asian,3
+522,Southeast Asian,0,False,White,0
+523,Southeast Asian,0,False,Latino_Hispanic,2
+524,Southeast Asian,0,False,White,0
+525,Southeast Asian,0,False,White,0
+526,Southeast Asian,0,False,White,0
+527,Southeast Asian,0,False,White,0
+528,Southeast Asian,0,False,White,0
+529,Southeast Asian,0,False,White,0
+530,Southeast Asian,0,False,White,0
+531,Southeast Asian,0,False,White,0
+532,Southeast Asian,0,False,Latino_Hispanic,2
+533,Southeast Asian,0,False,White,0
+534,Southeast Asian,0,False,White,0
+535,Southeast Asian,0,False,Middle Eastern,6
+536,Southeast Asian,0,False,Middle Eastern,6
+537,Southeast Asian,0,False,White,0
+538,Southeast Asian,0,False,Black,1
+539,Southeast Asian,0,False,White,0
+540,Southeast Asian,0,False,White,0
+541,Southeast Asian,0,False,White,0
+542,Southeast Asian,0,False,White,0
+543,Southeast Asian,0,False,Middle Eastern,6
+544,Southeast Asian,0,False,White,0
+545,Southeast Asian,0,False,Middle Eastern,6
+546,Southeast Asian,0,False,Black,1
+547,Southeast Asian,0,False,White,0
+548,Southeast Asian,0,False,White,0
+549,Southeast Asian,0,False,White,0
+550,Southeast Asian,0,False,Middle Eastern,6
+551,Southeast Asian,0,False,Middle Eastern,6
+552,Southeast Asian,0,False,Middle Eastern,6
+553,Southeast Asian,0,False,White,0
+554,Southeast Asian,0,False,Middle Eastern,6
+555,Southeast Asian,0,False,Latino_Hispanic,2
+556,Southeast Asian,0,False,White,0
+557,Southeast Asian,0,False,White,0
+558,Southeast Asian,0,False,White,0
+559,Southeast Asian,0,False,White,0
+560,Southeast Asian,0,False,White,0
+561,Southeast Asian,0,False,White,0
+562,Southeast Asian,0,False,White,0
+563,Southeast Asian,0,False,Latino_Hispanic,2
+564,Southeast Asian,0,False,White,0
+565,Southeast Asian,0,False,White,0
+566,Southeast Asian,0,False,White,0
+567,Southeast Asian,0,False,Latino_Hispanic,2
+568,Southeast Asian,0,False,White,0
+569,Southeast Asian,0,False,White,0
+570,Southeast Asian,0,False,Middle Eastern,6
+571,Southeast Asian,0,False,White,0
+572,Southeast Asian,0,False,White,0
+573,Southeast Asian,0,False,Middle Eastern,6
+574,Southeast Asian,0,False,White,0
+575,Southeast Asian,0,False,Middle Eastern,6
+576,Southeast Asian,0,False,White,0
+577,Southeast Asian,0,False,Black,1
+578,Southeast Asian,0,False,White,0
+579,Southeast Asian,0,False,White,0
+580,Southeast Asian,0,False,White,0
+581,Southeast Asian,0,False,White,0
+582,Southeast Asian,0,False,Middle Eastern,6
+583,Southeast Asian,0,False,Middle Eastern,6
+584,Southeast Asian,0,False,White,0
+585,Southeast Asian,0,False,White,0
+586,Southeast Asian,0,False,White,0
+587,Southeast Asian,0,False,White,0
+588,Southeast Asian,0,False,Black,1
+589,Southeast Asian,0,False,East Asian,3
+590,Southeast Asian,0,False,Middle Eastern,6
+591,Southeast Asian,0,False,White,0
+592,Southeast Asian,0,False,White,0
+593,Southeast Asian,0,False,White,0
+594,Southeast Asian,0,False,White,0
+595,Southeast Asian,0,False,White,0
+596,Southeast Asian,0,False,White,0
+597,Southeast Asian,0,False,White,0
+598,Southeast Asian,0,False,White,0
+599,Southeast Asian,0,False,White,0
+600,White,0,True,White,0
+601,White,0,True,White,0
+602,White,0,True,White,0
+603,White,0,True,White,0
+604,White,0,True,White,0
+605,White,0,True,White,0
+606,White,0,False,Middle Eastern,6
+607,White,0,True,White,0
+608,White,0,True,White,0
+609,White,0,True,White,0
+610,White,0,True,White,0
+611,White,0,True,White,0
+612,White,0,True,White,0
+613,White,0,False,Middle Eastern,6
+614,White,0,True,White,0
+615,White,0,True,White,0
+616,White,0,True,White,0
+617,White,0,True,White,0
+618,White,0,True,White,0
+619,White,0,True,White,0
+620,White,0,True,White,0
+621,White,0,True,White,0
+622,White,0,True,White,0
+623,White,0,True,White,0
+624,White,0,True,White,0
+625,White,0,True,White,0
+626,White,0,True,White,0
+627,White,0,False,Middle Eastern,6
+628,White,0,True,White,0
+629,White,0,False,Middle Eastern,6
+630,White,0,True,White,0
+631,White,0,True,White,0
+632,White,0,True,White,0
+633,White,0,True,White,0
+634,White,0,True,White,0
+635,White,0,True,White,0
+636,White,0,True,White,0
+637,White,0,False,Middle Eastern,6
+638,White,0,True,White,0
+639,White,0,True,White,0
+640,White,0,True,White,0
+641,White,0,True,White,0
+642,White,0,True,White,0
+643,White,0,True,White,0
+644,White,0,False,Middle Eastern,6
+645,White,0,True,White,0
+646,White,0,True,White,0
+647,White,0,False,Middle Eastern,6
+648,White,0,True,White,0
+649,White,0,True,White,0
+650,White,0,True,White,0
+651,White,0,True,White,0
+652,White,0,True,White,0
+653,White,0,True,White,0
+654,White,0,True,White,0
+655,White,0,True,White,0
+656,White,0,False,Middle Eastern,6
+657,White,0,True,White,0
+658,White,0,True,White,0
+659,White,0,True,White,0
+660,White,0,True,White,0
+661,White,0,True,White,0
+662,White,0,True,White,0
+663,White,0,True,White,0
+664,White,0,True,White,0
+665,White,0,True,White,0
+666,White,0,True,White,0
+667,White,0,True,White,0
+668,White,0,False,Middle Eastern,6
+669,White,0,True,White,0
+670,White,0,True,White,0
+671,White,0,True,White,0
+672,White,0,True,White,0
+673,White,0,False,Middle Eastern,6
+674,White,0,True,White,0
+675,White,0,True,White,0
+676,White,0,True,White,0
+677,White,0,True,White,0
+678,White,0,True,White,0
+679,White,0,True,White,0
+680,White,0,True,White,0
+681,White,0,True,White,0
+682,White,0,True,White,0
+683,White,0,True,White,0
+684,White,0,True,White,0
+685,White,0,True,White,0
+686,White,0,True,White,0
+687,White,0,True,White,0
+688,White,0,True,White,0
+689,White,0,True,White,0
+690,White,0,False,Middle Eastern,6
+691,White,0,True,White,0
+692,White,0,True,White,0
+693,White,0,False,East Asian,3
+694,White,0,True,White,0
+695,White,0,True,White,0
+696,White,0,False,Middle Eastern,6
+697,White,0,False,East Asian,3
+698,White,0,True,White,0
+699,White,0,False,Middle Eastern,6
